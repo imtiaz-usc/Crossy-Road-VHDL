@@ -2,6 +2,8 @@
 *** 
 ![](https://m.media-amazon.com/images/G/01/DeveloperBlogs/AmazonDeveloperBlogs/legacy/c1._CB520204065_.png)  
 
+**Demo Video:** https://youtu.be/bG8tHi8_30s    
+
 **Instructions on how to compile/execute program:**    
 1. Open Vivado and create project   
 2. For simulation/design, enter the following files:   
