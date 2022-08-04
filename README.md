@@ -1,8 +1,10 @@
 # Crossy Road VHDL Project - README
 *** 
 ![](https://m.media-amazon.com/images/G/01/DeveloperBlogs/AmazonDeveloperBlogs/legacy/c1._CB520204065_.png)  
-
-**Demo Video:** https://youtu.be/bG8tHi8_30s    
+ 
+**Obstacle Algorithm:** https://docs.google.com/spreadsheets/d/1I0ckK4hiKZWIPszn8Hifczbh4sTn-lWC7htZyvY9M1s/edit?usp=sharing
+ 
+**Demo Video:** https://youtu.be/bG8tHi8_30s  
 
 **Instructions on how to compile/execute program:**    
 1. Open Vivado and create project   
